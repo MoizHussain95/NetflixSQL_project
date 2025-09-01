@@ -1,7 +1,7 @@
 # Netflix Tv Shows and Moivies Data Analysis Using SQL
 
 ## Objective  
-The objective of this project is to analyze the Netflix dataset using SQL queries to answer different business and analytical questions.  
+The objective of this project is to analyze the Netflix dataset using SQL queries to answer different business and analytical questions. The queries cover content distribution, trends, genres, countries, directors, and more..  
 
 ---
 
